@@ -1,0 +1,14 @@
+<!-- Firefox Lite -->
+<item component="ComponentInfo{org.mozilla.rocket/org.mozilla.rocket.activity.MainActivity}" drawable="firefoxlite"/>
+<!-- Iriun Webcam -->
+<item component="ComponentInfo{com.jacksoftw.webcam/com.iriun.webcam.IntroActivity}" drawable="iriunwebcam"/>
+<!-- Keep Screen -->
+<item component="ComponentInfo{com.a.construction.keep.display/com.a.construction.keep.display.views.MainActivity}" drawable="keepscreen"/>
+<!-- Snapcast -->
+<item component="ComponentInfo{de.badaix.snapcast/de.badaix.snapcast.MainActivity}" drawable="snapcast"/>
+<!-- Tuner -->
+<item component="ComponentInfo{de.moekadu.tuner/de.moekadu.tuner.MainActivity}" drawable="tuner"/>
+<!-- Wake On Lan2 -->
+<item component="ComponentInfo{co.uk.mrwebb.wakeonlan/co.uk.mrwebb.wakeonlan.MainActivity}" drawable="wakeonlan2"/>
+<!-- Wake On Lan -->
+<item component="ComponentInfo{net.mafro.android.wakeonlan/net.mafro.android.wakeonlan.WakeOnLanActivity}" drawable="wakeonlan"/>
